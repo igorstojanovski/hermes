@@ -1,0 +1,13 @@
+/home/igorce/Projects/hermes/src/main/java/org/programirame/repositories/ClientRepository.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/service/Search.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/HermesApplication.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/repositories/InvoiceRepository.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/model/Invoice.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/controller/SearchController.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/importer/ImportData.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/model/ClientType.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/configuration/ElasticsearchConfiguration.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/importer/RandomString.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/model/search/SearchQuery.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/model/Client.java
+/home/igorce/Projects/hermes/src/main/java/org/programirame/model/Payment.java
